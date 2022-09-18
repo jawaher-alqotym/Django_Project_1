@@ -18,9 +18,6 @@ It is your calm, digital space to work or relax.
 ### Main Objective
 The main objective behind this project is to build a back-end Django application using what you learn during this week. Moreover, to evaluate Django learning outcomes by applying main concepts using technologies related such as MVT pattern, PostgreSQL, ORM, etc.
 
-### Project Idea
-The project idea is up to you as long as it applies all essential requirements.
-
 ### Essential Requirements
 
 - Create at least two applications.
@@ -40,5 +37,3 @@ The project idea is up to you as long as it applies all essential requirements.
 - Create a form with form validation.
 - Apply CRUD operations on the database. (**Note**: You have to use **all** the following function .all(), .get(), .delete(), and .save())
 
-### Optional Requirements
-- Use new features to customize your Admin page.
